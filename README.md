@@ -1,5 +1,4 @@
 ## Description
-```
 This is a real time chat application based on a django websockets server
 
 ## Setup
